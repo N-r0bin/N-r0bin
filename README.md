@@ -1,7 +1,9 @@
 ### Hi there, I'm Noha Ali 👋
 
 ### - Computer Engineer
+Experienced in Flutter Mobile Development and Web Development using React, HTML, CSS, Javascript 
 ### - Cybersecurity student 
+Currently enrolled in Google Cybersecurity Professional Certificate
 
 <!--
 **N-r0bin/N-r0bin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
