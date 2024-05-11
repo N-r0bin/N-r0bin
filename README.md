@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Noha Ali 👋
+
+### - Computer Engineer
+### - Cybersecurity student 
 
 <!--
 **N-r0bin/N-r0bin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
