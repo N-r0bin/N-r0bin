@@ -19,9 +19,12 @@ Currently enrolled in Google Cybersecurity Professional Certificate
 <img src="https://github.com/N-r0bin/N-r0bin/assets/83023450/8c09c2df-3c6b-4cd1-ba6f-f90a87c3434d" alt="java" width="50" height="50">
 <img src="https://github.com/N-r0bin/N-r0bin/assets/83023450/f0563f68-170d-4faf-aa4c-7f28de35a05b" alt="bash" width="50" height="50">
 <img src="https://github.com/N-r0bin/N-r0bin/assets/83023450/763e9bef-5a7d-4e20-b1ae-53e71b701c59" alt="mysql" width="50" height="50">
-<img src="https://github.com/N-r0bin/N-r0bin/assets/83023450/fd90bc2b-eabb-4cd6-ac0d-7628c7278b66" alt="wireshark" width="50" height="50">
-<img src="https://github.com/N-r0bin/N-r0bin/assets/83023450/8e62b962-2b9e-4dfb-be29-cf093b5a8693" alt="firebase" width="50" height="50">
 <img src="https://github.com/N-r0bin/N-r0bin/assets/83023450/7fd343d4-9ba7-485a-91b1-a1ae621c7ed6" alt="django" width="50" height="50">
+<img src="https://github.com/N-r0bin/N-r0bin/assets/83023450/8e62b962-2b9e-4dfb-be29-cf093b5a8693" alt="firebase" width="50" height="50">
+<img src="https://github.com/N-r0bin/N-r0bin/assets/83023450/fd90bc2b-eabb-4cd6-ac0d-7628c7278b66" alt="wireshark" width="50" height="50">
+<img src="https://github.com/N-r0bin/N-r0bin/assets/83023450/d58a0472-8a7d-48cf-9e34-9216ff8fe9c3" alt="Figma" width="50" height="50">
+
+
 
 ### Contact me:
 <a href="https://www.linkedin.com/in/noha-ali-08056422b/"> <img src="https://github.com/N-r0bin/N-r0bin/assets/83023450/1288d321-a3b9-46d2-8f1f-2bce4315db77" alt="linkedin" width="50" height="50"> </a>
