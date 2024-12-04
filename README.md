@@ -2,8 +2,8 @@
 
 ### - Computer Engineer
 Experienced in Flutter Mobile Development and Web Development using React, HTML, CSS, Javascript 
-### - Cybersecurity student 
-Currently enrolled in Google Cybersecurity Professional Certificate
+### - Cybersecurity 
+Google Cybersecurity Professional Certificate
 
 ### Languages and Tools:
 <img src="https://github.com/N-r0bin/N-r0bin/assets/83023450/36013e5a-1758-4220-ab09-ccecdb102d34" alt="Dart" width="50" height="50">
