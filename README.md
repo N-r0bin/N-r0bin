@@ -5,6 +5,7 @@ Experienced in Flutter Mobile Development and Web Development using React, HTML,
 ### - Cybersecurity 
 Google Cybersecurity Professional Certificate
 
+Blue Team Junior Analyst (BTJA)
 ### Languages and Tools:
 <img src="https://github.com/N-r0bin/N-r0bin/assets/83023450/36013e5a-1758-4220-ab09-ccecdb102d34" alt="Dart" width="50" height="50">
 <img src="https://github.com/N-r0bin/N-r0bin/assets/83023450/95a14952-c165-4666-90e4-c53c53cc2afe" alt="Flutter" width="50" height="50">
