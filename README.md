@@ -28,7 +28,7 @@ Blue Team Junior Analyst (BTJA)
 
 
 ### Contact me:
-<a href="https://www.linkedin.com/in/noha-ali-08056422b/"> <img src="https://github.com/N-r0bin/N-r0bin/assets/83023450/1288d321-a3b9-46d2-8f1f-2bce4315db77" alt="linkedin" width="50" height="50"> </a>
+<a href="https://www.linkedin.com/in/noha-ali10/"> <img src="https://github.com/N-r0bin/N-r0bin/assets/83023450/1288d321-a3b9-46d2-8f1f-2bce4315db77" alt="linkedin" width="50" height="50"> </a>
 
 
 <!--
